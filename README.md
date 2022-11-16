@@ -1,2 +1,2 @@
 # Firebase-React
- Firebase + React Todo Application 
+ Firebase + React + Todo Application 
