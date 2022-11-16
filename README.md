@@ -1,9 +1,5 @@
 <h3 align="center"> Build a Todo List Application using React and  Firebase<h3>
-## Contact
-- [Linkedin](https://www.linkedin.com/in/thomas-sentre-20035b1b7)
-- [Email](info3thomas@gmail.com)
-- [Quora](https://fr.quora.com/profile/Thomas-Sentre)
-- [GitHub](https://github.com/Thomas-Max99)
+
 
 # Getting Started with Create React App
 
