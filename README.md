@@ -1,6 +1,6 @@
 
 # React And Firbase 
-## Google Drive Clone React  with Firebase for Auth and Data persistance
+ Google Drive Clone React  with Firebase for Auth and Data persistance
 
 
 # Getting Started with Create React App
